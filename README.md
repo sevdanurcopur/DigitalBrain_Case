@@ -14,13 +14,13 @@ The data set used in this project can be found on Kaggle: https://www.kaggle.com
 
 - Loaded the dataset and performed data cleaning to handle missing values and outliers.
 - Prepared the data for analysis by formatting dates and calculating necessary metrics.
-- 
+  
 #### Customer Segmentation:
 
 - Conducted RFM analysis to segment customers based on their purchasing behavior.
 Defined customer segments and visualized them for better understanding.
 
-####Sales Forecasting:
+#### Sales Forecasting:
 
 - Applied time series analysis techniques to forecast future sales.
 - Used models like RandomForest,XGB,Lightgbm or others as appropriate.
